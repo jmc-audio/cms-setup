@@ -1,0 +1,2 @@
+# cms-setup
+example config
